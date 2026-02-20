@@ -25,7 +25,7 @@ This project explores the factors influencing mental health among students. By a
 
 ## 🖼️ Dashboard Preview
 
-![Student Depression Dashboard](tableau/dashboard_screenshot.png)
+![Student Depression Dashboard](images/Dashboard.png)
 
 
 ---
